@@ -1,0 +1,325 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-class name="regular-font" font-size="14px" />
+      <mj-class name="small-font" font-size="12px" />
+      <mj-class name="section-header" font-size="30px" align="center" />
+      <mj-class name="button-br" border-radius="10px" />
+      <mj-class name="prime-gray" color="#b0b0b0" />
+      <mj-class name="prime-gray-bg" background-color="#b0b0b0" />
+      <mj-class name="prime-white" color="#f7f7f7" />
+      <mj-class name="prime-white-bg" background-color="#f7f7f7" />
+      <mj-class name="prime-black" color="#2F2F2F" />
+      <mj-class name="prime-black-bg" background-color="#2F2F2F" />
+      <mj-title>🍿🎬Your favorite shows are coming back!</mj-title>
+      <mj-all font-family="Tahoma" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="620px" background-color="#EEEEEE">
+    <mj-wrapper padding="0" mj-class="prime-black-bg">
+      <!-- Top Logo -->
+      <mj-section padding="5px 0">
+        <mj-column width="100%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="160px"
+            src="images/prime-logo.png"
+            alt="Prime logo"
+            href="https://www.primevideo.com/"
+            target="_blank"
+          />
+        </mj-column>
+      </mj-section>
+
+      <!-- Banner Image -->
+      <mj-section padding="0">
+        <mj-column width="100%">
+          <mj-image
+            padding="0"
+            src="images/pv-banner.png"
+            alt="Image of the show Back Home premiering April 25, 2023 at 7pm ET"
+            href="https://www.primevideo.com/"
+            target="_blank"
+          />
+        </mj-column>
+      </mj-section>
+
+      <!-- Section Header -->
+      <mj-section padding="20px 15px 30px">
+        <mj-column width="100%">
+          <mj-text mj-class="section-header prime-white" padding="0"
+            >Drama, comedy, and more</mj-text
+          >
+        </mj-column>
+      </mj-section>
+
+      <!-- Section Paragraph -->
+      <mj-section padding="0 15px 30px">
+        <mj-column width="100%">
+          <mj-text
+            align="center"
+            mj-class="prime-white regular-font"
+            line-height="1.5"
+          >
+            Watch star athlete Jormaine McKinney try and beat the odds against
+            him. Going into another season comes jam packed with more obstacles
+            for him and his family.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- 2-Column CTA Buttons -->
+      <mj-section padding="0 15px 40px">
+        <mj-column width="50%">
+          <mj-button
+            align="left"
+            padding="0"
+            height="50px"
+            width="98%"
+            mj-class="button-br prime-gray-bg prime-black"
+            href="https://www.primevideo.com/"
+            target="_blank"
+          >
+            Watch from last season
+          </mj-button>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-button
+            align="right"
+            padding="0"
+            height="50px"
+            width="98%"
+            mj-class="button-br prime-white-bg prime-black"
+            href="https://www.primevideo.com/"
+            target="_blank"
+          >
+            More shows like this
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Forever Again Image -->
+      <mj-section padding="0">
+        <mj-column width="100%">
+          <mj-image
+            padding="0"
+            src="images\fa-show.png"
+            alt="Image of the show Forever Again that will be starting back on Friday Feb 24, 2023 at 6pm ET"
+            href="https://www.primevideo.com/"
+            target="_blank"
+          />
+        </mj-column>
+      </mj-section>
+
+      <!-- Section Header -->
+      <mj-section padding="20px 15px 30px">
+        <mj-column width="100%">
+          <mj-text mj-class="section-header prime-white" padding="0"
+            >Another season is back</mj-text
+          >
+        </mj-column>
+      </mj-section>
+
+      <!-- Section Paragraph -->
+      <mj-section padding="0 15px 30px">
+        <mj-column width="100%">
+          <mj-text
+            align="center"
+            mj-class="prime-white regular-font"
+            line-height="1.5"
+          >
+            With last year behind them, all of your favorite stars are back and
+            stronger than ever. There are lots of things packed into the new
+            season. Some of which will take your breath away.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Section CTA Buttons -->
+      <mj-section padding="0 15px 40px">
+        <mj-column width="100%">
+          <mj-button
+            align="center"
+            padding="0"
+            height="50px"
+            width="100%"
+            mj-class="button-br prime-white-bg prime-black"
+            href="https://www.primevideo.com/"
+            target="_blank"
+          >
+            Add to your watchlist
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Section Header -->
+      <mj-section padding="20px 15px 10px">
+        <mj-column width="100%">
+          <mj-text mj-class="section-header prime-white" padding="0"
+            >Check out what’s trending</mj-text
+          >
+        </mj-column>
+      </mj-section>
+
+      <!-- 2-Column Trending Section -->
+      <mj-section padding="0">
+        <mj-column width="50%">
+          <mj-image
+            width="310px"
+            padding="5px 3px 3px 15px"
+            src="images/grand-box.png"
+            alt="Image of the show Talkytalk"
+            href="https://www.primevideo.com/"
+            target="_blank"
+          />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image
+            width="310px"
+            padding="5px 15px 3px 3px"
+            src="images/tb-box.png"
+            alt="Image of the show Game On"
+            href="https://www.primevideo.com/"
+            target="_blank"
+          />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image
+            width="310px"
+            padding="3px 3px 5px 15px"
+            src="images/ns-box.png"
+            alt="Image of the Amazon Original movie Next Steps"
+            href="https://www.primevideo.com/"
+            target="_blank"
+          />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image
+            width="310px"
+            padding="3px 15px 5px 3px"
+            src="images\wd-box.png"
+            alt="Image of the show Always Dad"
+            href="https://www.primevideo.com/"
+            target="_blank"
+          />
+        </mj-column>
+      </mj-section>
+
+      <!-- Footer Section -->
+      <!-- Social Icons -->
+      <mj-section padding="30px 0 13px 0">
+        <mj-column width="100%">
+          <mj-social icon-size="25px">
+            <mj-social-element
+              name="facebook"
+              mj-class="prime-gray-bg"
+              padding="0 7px"
+              href="https://www.facebook.com/"
+              target="_blank"
+            >
+            </mj-social-element>
+            <mj-social-element
+              name="twitter"
+              mj-class="prime-gray-bg"
+              padding="0 7px"
+              href="https://www.twitter.com/"
+              target="_blank"
+            >
+            </mj-social-element>
+            <mj-social-element
+              name="instagram"
+              mj-class="prime-gray-bg"
+              padding="0 7px"
+              href="https://www.instagram.com/"
+              target="_blank"
+            >
+            </mj-social-element>
+            <mj-social-element
+              name="youtube"
+              mj-class="prime-gray-bg"
+              padding="0 7px"
+              href="https://www.youtube.com/"
+              target="_blank"
+            >
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+
+      <!-- Footer Paragraphs -->
+      <mj-section padding="0 0 15px">
+        <mj-column width="100%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="140px"
+            src="images/prime-logo.png"
+            alt="Prime logo"
+            href="https://www.primevideo.com/"
+            target="_blank"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="100%">
+          <mj-text mj-class="prime-gray" align="center" line-height="1.1">
+            Add
+            <a
+              style="color: inherit"
+              href="https://www.primevideo.com/"
+              target="_blank"
+              >no-reply@primevideo.com</a
+            >, our new sender email address, to your Safe Senders list to ensure
+            receipt of messages from Prime Video.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="100%">
+          <mj-text mj-class="prime-gray" align="center" line-height="1.1">
+            Prime Video provides weekly and occasional email updates about new
+            and noteworthy movies and TV shows, as well as opportunities to rent
+            and own videos for less than their everyday prices. It's our
+            intention to be helpful and informative. We're also sensitive to
+            your time and remain committed to limiting our email to important
+            store news, as well as critical information about your account. If
+            you'd rather not receive any email information from Prime Video,
+            please modify your Prime Video settings
+            <a
+              style="color: inherit"
+              href="https://www.primevideo.com/"
+              target="_blank"
+              >here</a
+            >.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="100%">
+          <mj-text mj-class="prime-gray" align="center" line-height="1.1">
+            ©2023 Amazon.com, Inc. or its affiliates. All rights reserved.
+            Amazon, the Amazon logo, Fire, Prime and 1-Click are trademarks of
+            Amazon.com, Inc. or its affiliates. Amazon.com, 410 Terry Avenue N.,
+            Seattle, WA 98109-5210.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="100%">
+          <mj-text mj-class="prime-gray" align="center" line-height="1.1">
+            Reference: 123456789
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0 20px">
+        <mj-column width="100%">
+          <mj-text mj-class="prime-gray" align="center" line-height="1.1">
+            Please note that this message was sent to the following email
+            address: email@email.online
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
