@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/user/public_html/email_projects/Prime_NL
+    - /bin/cp index.html $DEPLOYPATH
